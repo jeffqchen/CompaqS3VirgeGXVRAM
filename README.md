@@ -1,4 +1,4 @@
-# VRAM Expansion Board for the Compaq S3 Virge GX Video Card
+# VRAM Expansion Board for Compaq S3 Virge GX Video Card
 
 <img src="/Pics/main.jpg" width=600>
 
