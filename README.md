@@ -9,3 +9,9 @@ However, this add-on board is difficult to find at a reasonable price nowadays. 
 Also, I've added additional support for a BIOS chip with a modern pinout scheme, in contrast to the weird one Compaq decided to use on their card. Just in case you are facing a corrupted BIOS situation, you can easily remove the stock one and install your own.
 
 To learn all the findings I obtained during creating this board, as well as how to build the board, please visit the Wiki pages.
+
+------------
+Special Thanks
+
+rain2xx - [Twitter](https://twitter.com/rain2xx)
+- for extra photos of a 3rd party VRAM board
