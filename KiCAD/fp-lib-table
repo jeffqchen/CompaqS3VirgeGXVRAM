@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Compaq S3 Virge GX VRAM Addon Board")(type "KiCad")(uri "${KIPRJMOD}/Compaq S3 Virge GX VRAM Addon Board.pretty")(options "")(descr ""))
+)
